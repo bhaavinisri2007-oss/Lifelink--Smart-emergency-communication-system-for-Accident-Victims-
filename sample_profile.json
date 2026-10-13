@@ -1,0 +1,21 @@
+{
+  "name": "Alex Sample",
+  "blood_group": "O+",
+  "allergies": [
+    "Penicillin"
+  ],
+  "conditions": [
+    "Asthma"
+  ],
+  "emergency_number": "112",
+  "contacts": [
+    {
+      "name": "Contact One",
+      "phone": "+00 00000 00001"
+    },
+    {
+      "name": "Contact Two",
+      "phone": "+00 00000 00002"
+    }
+  ]
+}
